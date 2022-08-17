@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+See some stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ff6347&show_icons=true&custom_title=ff6347)](https://github.com/ff6347)
