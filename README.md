@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello my name is Fabian Morón Zirfas (currently known as ff6347) - I am the Administrator of the Professorship in Fundamentals of Visual Communication, specializing in digital communication [@hbk-bs](https://hbk-bs.de) and Creative Technologist living in Berlin who occasionally does [stuff](https://fabianmoronzirfas.me) that involves [things](https://inpyjamas.dev).
+Hello my name is Fabian Morón Zirfas (currently known as ff6347) - I am a master student at the university of applied scinces Potsdam (@fh-potsdam) and Creative Technologist living in Berlin who occasionally does [stuff](https://fabianmoronzirfas.me) that involves [things](https://inpyjamas.dev).
 
 
 <!--
